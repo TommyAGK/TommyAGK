@@ -1,7 +1,16 @@
 ### Who?
  ```bash 
 echo "Tommy, also known as Server Dad. Windows stack developer turned linux consultant."
-ls /home/tommy/skillset
+tree skillset
+skillset/
+└── programming
+    ├── bash
+    ├── c++
+    ├── csharp
+    ├── golang
+    ├── java
+    └── python
+
 ```
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyagk&theme=dark" />
 
