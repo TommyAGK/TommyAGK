@@ -1,6 +1,9 @@
+
 ### Who?
- ```bash 
-echo "Tommy, also known as Server Dad. Windows stack developer turned linux consultant."
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyagk&theme=dark" />
+
+```bash 
+echo "Windows stack developer turned linux consultant."
 tree skillset
 skillset/
 └── programming
@@ -12,7 +15,6 @@ skillset/
     └── python
 
 ```
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyagk&theme=dark" />
 
 <!--
 **TommyAGK/TommyAGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
