@@ -1,7 +1,6 @@
 
 ### Who?
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyagk&theme=dark" />
-
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=tommyagk&theme=dark" />
 ```bash 
 echo "Windows stack developer turned linux consultant."
 tree skillset
